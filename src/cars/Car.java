@@ -28,7 +28,7 @@ public class Car implements iVehicle{
 		return carname;
 	}
 	
-	public void setmileage(Double m)
+	public void setmileage(double m)
 	{
 		mileage = m;
 	}
